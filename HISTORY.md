@@ -1,4 +1,4 @@
-# UNRELEASED
+# 1.0.0 (2014-12-12)
 
   * initial
 
